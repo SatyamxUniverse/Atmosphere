@@ -1,4 +1,4 @@
-package com.yoshi.rain
+package com.universe.android.atmosphere
 
 import android.appwidget.AppWidgetManager
 import android.content.Context
